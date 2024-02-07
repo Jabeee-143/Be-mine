@@ -6,7 +6,7 @@
 
 
 #### [See it Live]
-https://github.com/Jabeee-143/Be-mine
+https://github.com/Jabeee-143/Be-mine.git
 
 ## Make your own version :computer:
 
