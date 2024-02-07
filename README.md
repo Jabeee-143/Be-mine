@@ -2,7 +2,7 @@
   Be my 💞 Valentine 
 </h1>
 
-[![Author](https://img.shields.io/badge/author-GovindCodes-green)](https://github.com/GovindCodes)
+[![Author](https://img.shields.io/badge/author-jabeee-cyan)](https://github.com/Jabeee-143/Be-mine)
 
 
 #### [See it Live]
