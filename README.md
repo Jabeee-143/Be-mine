@@ -6,8 +6,7 @@
 
 
 #### [See it Live]
-https://github.com/Jabeee-143/Be-mine.git
-
+https://jabeee-143.github.io/Be-mine/
 ## Make your own version :computer:
 
 :camera::camera::camera::camera::camera::camera::camera:
